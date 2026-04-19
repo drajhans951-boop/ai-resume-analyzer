@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/.v.iml" filepath="$PROJECT_DIR$/.idea/.v.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/ai-resume-analyzer.iml" filepath="$PROJECT_DIR$/.idea/ai-resume-analyzer.iml" />
+>>>>>>> 8cdbf53e6aeeeafdc3a4846c6b49d494892d9c91
     </modules>
   </component>
 </project>
